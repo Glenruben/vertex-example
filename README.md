@@ -1,6 +1,6 @@
 # Minimal example of problem
 
-Based on [Vanilla-starter](https://github.com/enonic/starter-vanilla)
+Based on [starter-vanilla](https://github.com/enonic/starter-vanilla)
 
 Example of problem with the GCP library for Discovery Engine, and Vertex Search. This example should yield some sort of authentication error, but instead I only ever get `java.lang.NoClassDefFoundError: com/google/cloud/discoveryengine/v1/SearchServiceSettings` - I am probably making some mistake in building this or importing the relevant Java libraries but I fail to find it.
 
