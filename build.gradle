@@ -15,7 +15,7 @@ dependencies {
     implementation "com.enonic.xp:portal-api:${xpVersion}"
     // include platform('com.google.cloud:libraries-bom:26.37.0')
     // include 'com.google.cloud:google-cloud-discoveryengine'
-    include 'com.google.guava:guava:31.0.1-jre'
+    include 'com.google.guava:guava:33.2.0-jre'
     include 'com.google.cloud:google-cloud-discoveryengine:0.36.0'
     include "com.enonic.xp:lib-content:${xpVersion}"
     include "com.enonic.xp:lib-portal:${xpVersion}"
