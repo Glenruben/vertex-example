@@ -20,7 +20,7 @@ dependencies {
             strictly '33.2.0-jre'
         }
     }
-    include 'com.google.cloud:google-cloud-discoveryengine:0.39.0'
+    include 'com.google.cloud:google-cloud-discoveryengine:0.42.0'
     implementation "com.enonic.xp:core-api:${xpVersion}"
     implementation "com.enonic.xp:portal-api:${xpVersion}"
     // include platform('com.google.cloud:libraries-bom:26.37.0')
